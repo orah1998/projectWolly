@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Board.cpp.o CMakeFiles/untitled.dir/Cell.cpp.o CMakeFiles/untitled.dir/CellCollection.cpp.o CMakeFiles/untitled.dir/Player.cpp.o CMakeFiles/untitled.dir/GameLogics.cpp.o CMakeFiles/untitled.dir/Winner.cpp.o CMakeFiles/untitled.dir/GameFlow.cpp.o CMakeFiles/untitled.dir/AI.cpp.o  -o untitled 
